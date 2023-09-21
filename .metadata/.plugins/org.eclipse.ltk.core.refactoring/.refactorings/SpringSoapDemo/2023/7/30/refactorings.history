@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SpringSoapDemo/src/main/resources/Book.xsd&apos; to &apos;book.xsd&apos;" description="Rename resource &apos;Book.xsd&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/Book.xsd" name="book.xsd" stamp="1690488234874" updateReferences="true"/>
+</session>

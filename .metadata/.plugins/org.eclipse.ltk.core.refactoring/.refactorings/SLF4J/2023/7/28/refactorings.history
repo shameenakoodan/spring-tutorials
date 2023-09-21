@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SLF4jDemo.java&apos; to &apos;thymeleaf-tour/src/main/java/org.shameenakoodan.thymeleaftour&apos;&#x0A;- Original project: &apos;SLF4J&apos;&#x0A;- Destination element: &apos;thymeleaf-tour/src/main/java/org.shameenakoodan.thymeleaftour&apos;&#x0A;- Original element: &apos;org.shameenakoodan.SLF4J.SLF4jDemo.java&apos;" description="Copy compilation unit" destination="=thymeleaf-tour/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.shameenakoodan.thymeleaftour" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.shameenakoodan.SLF4J{SLF4jDemo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1689274948991" units="1" version="1.0"/>
+</session>

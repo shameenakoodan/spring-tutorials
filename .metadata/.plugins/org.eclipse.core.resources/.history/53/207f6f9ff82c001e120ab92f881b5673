@@ -1,0 +1,5 @@
+package org.shameena.SpringSoapDemo.SoapWebServices;
+
+public class BookRepository {
+
+}

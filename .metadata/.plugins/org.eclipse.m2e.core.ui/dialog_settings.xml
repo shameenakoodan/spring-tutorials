@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/homeoffice/Shameena/PerScholas/Spring/EurekaClientOne"/>
+			<item value="/Users/homeoffice/Downloads/EurekaClientOne"/>
+			<item value="/Users/homeoffice/Downloads/SpringMicroservicesDemo"/>
+			<item value="/Users/homeoffice/Downloads/SpringSoapDemo"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Spring/SpringSoapDemo"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Spring/studentlogin"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Spring/SpringSecurityRegDemo"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Spring/StudentCrudSpringRepo"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Spring/SpringRepoCRUDDEMO"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Spring/SportDemo"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Spring/CoachDemo"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Spring/spring-boot-actuator-example"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Spring/SessionAttributeDemo"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Spring/PathVariable"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Spring/RequestParam"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="org.shameenakoodan.SLF4JDemo"/>
+			<item value="org.shameenakoodan.SLF4JDemoProject"/>
+		</list>
+		<list key="groupId">
+			<item value="org.shameenakoodan"/>
+		</list>
+		<list key="artifactId">
+			<item value="SLF4JDemo"/>
+			<item value="SLF4JDemoProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

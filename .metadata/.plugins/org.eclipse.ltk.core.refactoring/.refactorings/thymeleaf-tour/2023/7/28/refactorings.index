@@ -1,0 +1,6 @@
+1689261955863	Rename package 'or.shameenakoodan.controller'
+1689262102917	Rename package 'or.shameenakoodan.thymeleaftour.controller'
+1689262157677	Rename package 'or.shameenakoodan.thymeleaftour.mycontroller'
+1689262368187	Move 'viewFlowers.html' to 'templates'
+1689263477727	Move 'demopage.html' to 'templates'
+1689263533772	Rename resource 'demopage.html'

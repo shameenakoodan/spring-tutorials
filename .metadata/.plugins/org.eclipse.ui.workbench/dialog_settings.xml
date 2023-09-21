@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.m2e.core.wizards.Maven2ImportWizard"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.m2e"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/homeoffice/Shameena/PerScholas/Assignments/GLAB - 309.7.1 -SP12 - Spring Data JPA, JPARepository, CRUD API using Database(SQL).zip"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Assignments/GLAB - 309.5.7 - SP9 - How to use @SessionAttributes and @Modelattributes.zip"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Assignments/GLAB - 309.6.1- SP11 - Spring Dependency Injection with  Annotation and Autowiring.zip"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Assignments/GLAB - 309.6.1- SP11 - Spring Dependency Injection with  Annotation and Autowiring1.zip"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Assignments/PathVariable.zip"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Assignments/GLAB - 309.5.5 - SP7 - How to use @RequestParam annotation.zip"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Assignments/GLAB - 309.5.4 - SP6 - Spring Forms and Data Binding to a Controller&#x0A;.zip"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Assignments/lFormExample.zip"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Assignments/ModelViewAnnotationExample.zip"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Assignments/AnnotationExample.zip"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Assignments/tExampleOneRest.zip"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Assignments/thymeleaftour.zip"/>
+			<item value="/Users/homeoffice/Shameena/PerScholas/Assignments/ExampleOne.zip"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.wst.html.ui.internal.wizard.NewHTMLWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.wst.web.ui"/>
+		</list>
+	</section>
+	<section name="InstallationDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="-67"/>
+		<item key="DIALOG_Y_ORIGIN" value="-137"/>
+		<item key="DIALOG_WIDTH" value="762"/>
+		<item key="DIALOG_HEIGHT" value="639"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>
